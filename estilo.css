@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-image: url(midia/b02.jpg);
+}
+
+header{
+   background-color: #262c3a;
+   border: 1px solid #181b24;
+    
+}
+
+#logo{
+    background: url(midia/logo.jpg);
+    width: 250px;
+    height: 250px;
+    text-indent: -99000px;
+    margin-left: 15px;
+    float: left;
+}
+
+#navegaçao{
+    float: right;
+    margin-right: 150px;
+    margin-top: 110px;
+}
+
+#navegaçao ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    padding-left: 60px;
+    
+}
+
+/*-----------------------------Corpo do site
+----------------------------------------------*/
+
+#seçao-1{
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+#seçao-2{
+    width: 1400px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #979191;
+    height: 760px;
+}
+
+#titulo{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration: dotted;
+}
+
+#matt{
+    margin-top: 20px;
+    margin-left: 150px;
+    display: inline-block;
+    float: left;
+}
+
+#foggy{
+    margin-top: 20px;
+    margin-left: 115px;
+    margin-right: 115px;
+    float: left;
+    display: inline-block;
+    
+}
+
+#karen{
+    margin-top: 20px;
+    margin-right: 150px;
+    float: right;
+    
+}
+
+.card{
+    height: 635.59px;
+
+}
+
+
+/*---------------------------------------Rodapé-------------------------------------------------------------*/
+
+#rodape{
+    margin-top: 20px;
+}
