@@ -22,14 +22,12 @@ header{
     text-indent: -99000px;
     margin-left: 15px;
     float: left;
-    border: 1px solid red;
 }
 
 #navegaçao{
     float: right;
     margin-right: 150px;
-    margin-top: 55px;
-    border: 1px solid red;
+    margin-top: 55px;  
 }
 
 #navegaçao ul li a{
