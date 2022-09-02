@@ -17,17 +17,19 @@ header{
 
 #logo{
     background: url(midia/logo.jpg);
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     text-indent: -99000px;
     margin-left: 15px;
     float: left;
+    border: 1px solid red;
 }
 
 #navegaçao{
     float: right;
     margin-right: 150px;
-    margin-top: 110px;
+    margin-top: 55px;
+    border: 1px solid red;
 }
 
 #navegaçao ul li a{
