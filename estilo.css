@@ -39,6 +39,13 @@ header{
 
 /*-----------------------------Corpo do site
 ----------------------------------------------*/
+h2{
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+}
+
+
 
 #seçao-1{
     width: 1024px;
@@ -85,8 +92,8 @@ header{
 }
 
 .card{
-    height: 635.59px;
-
+    height: 640.59px;
+    
 }
 
 
