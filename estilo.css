@@ -37,6 +37,10 @@ header{
     
 }
 
+.nav-link {
+    transition: all 150ms ease-in-out;
+}
+
 /*-----------------------------Corpo do site
 ----------------------------------------------*/
 h2{
